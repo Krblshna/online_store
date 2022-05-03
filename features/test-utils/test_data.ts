@@ -1,0 +1,140 @@
+export const test_product_id = 51080;
+export const test_product_info = {
+    id: 51080,
+    model: "L51080",
+    name: "Santorini Satin Wrap Dress in Dusty Blue",
+    image: "https://media.lucyinthesky.com/data/Feb20_1/424x694_contain/781A0485.JPG",
+    description:
+        "&lt;p&gt;\r\n\tBecause we can&amp;#39;t stop thinking about the islands of Greece... this dress is your go-to for the perfect getaway or any dressy occasion. A dress that is a complete dream! Features a one shoulder neckline, adjustable strap, wrap tie for styling and a flattering fit. Made in our luxurious matte&amp;nbsp;dusty blue satin. Dress down with your favorite sneakers or dress it up with cute heels and clutch!&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\tMade In Los Angeles&lt;/p&gt;\r\n&lt;p&gt;\r\n\t-100% Polyester&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Adjustable Strap&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Zipper Closure&lt;/p&gt;\r\n&lt;p&gt;\r\n\t-Handwash Cold&lt;/p&gt;\r\n&lt;p&gt;\r\n\tLength of Dress Measures 31in/78.7cm&lt;/p&gt;\r\n&lt;p&gt;\r\n\tAll Measurements Are For A Size Small.&lt;/p&gt;\r\n",
+    sizes: ["Small", "Medium", "Large"],
+    price: "$59.00",
+    special: "$44.25",
+    priceInCents: 5900,
+    specialInCents: 4425,
+};
+export const test_product_info2 = {
+    id: 49130,
+    model: "L49130",
+    name: "Starstruck Strappy Dress in Nude Iridescence",
+    image: "https://media.lucyinthesky.com/data/Jan19_1/424x694_contain/0Y5A4237S.JPG",
+    description:
+        "&lt;p&gt;\r\n\tYou can make a grand entrance in this starstruck bodycon dress. Made in our show-stopping multi-colored iridescent sequin detailing embroidered on nude mesh. Being extra makes you extra fun and you&amp;#39;ll never miss a beat with this year-round flattering style that hugs you in all the right places. Features adjustable straps and a popular square neckline. Dress it up in your favorite heels and clutch and all eyes are on you!&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\tMade in Los Angeles&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- 100% Polyester&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Fully Lined&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Adjustable Straps&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Hand Wash Cold&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Center Front Sequin Placement Varies&lt;/p&gt;\r\n&lt;p&gt;\r\n\tLength of Dress Measures 31in/78.7cm&lt;/p&gt;\r\n&lt;p&gt;\r\n\tAll Measurements Are For A Size Small&lt;/p&gt;\r\n",
+    sizes: ["Small", "Medium", "Large"],
+    price: "$130.00",
+    special: "$7.50",
+    priceInCents: 13000,
+    specialInCents: 750,
+};
+
+export const test_page_info = {
+    data: [
+        {
+            id: 51794,
+            model: "L51794",
+            name: "Iridescent Sequin Bodycon Dress in Pink",
+            image: "https://media.lucyinthesky.com/data/Jun20_2/424x694_contain/781A7820.JPG",
+            description:
+                "&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 9pt; white-space: pre-wrap;&quot;&gt;Made for the Lucy Babes that dare to stand out! This dress appears to be encrusted in jagged quartz crystals. Made in our high-end bubble pink iridescent sequin fabric. Edgy and glamorous, this flattering bodycon will make people stop and stare everywhere you go.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;b style=&quot;font-weight:normal;&quot;&gt;&lt;br /&gt;\r\n\t&lt;/b&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:2.4;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;font-size:9pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Made in Los Angeles&lt;/span&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:2.4;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;font-size:9pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;- 100% Polyester&lt;/span&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:2.4;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;font-size:9pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;- Adjustable Straps&lt;/span&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:2.4;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;font-size:9pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;- Fully Lined&lt;/span&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:2.4;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;font-size:9pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Length of Dress Measures 31in/78.74cm.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p dir=&quot;ltr&quot; style=&quot;line-height:2.4;margin-top:0pt;margin-bottom:0pt;&quot;&gt;\r\n\t&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 9pt; white-space: pre-wrap;&quot;&gt;All Measurements Are For A Size Small.&lt;/span&gt;&lt;/p&gt;\r\n&lt;div&gt;\r\n\t&lt;span style=&quot;font-size:9pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br /&gt;\r\n\t&lt;/span&gt;&lt;/div&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$99.00",
+            special: "$74.25",
+            priceInCents: 9900,
+            specialInCents: 7425,
+        },
+        {
+            id: 51080,
+            model: "L51080",
+            name: "Santorini Satin Wrap Dress in Dusty Blue",
+            image: "https://media.lucyinthesky.com/data/Feb20_1/424x694_contain/781A0485.JPG",
+            description:
+                "&lt;p&gt;\r\n\tBecause we can&amp;#39;t stop thinking about the islands of Greece... this dress is your go-to for the perfect getaway or any dressy occasion. A dress that is a complete dream! Features a one shoulder neckline, adjustable strap, wrap tie for styling and a flattering fit. Made in our luxurious matte&amp;nbsp;dusty blue satin. Dress down with your favorite sneakers or dress it up with cute heels and clutch!&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\tMade In Los Angeles&lt;/p&gt;\r\n&lt;p&gt;\r\n\t-100% Polyester&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Adjustable Strap&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Zipper Closure&lt;/p&gt;\r\n&lt;p&gt;\r\n\t-Handwash Cold&lt;/p&gt;\r\n&lt;p&gt;\r\n\tLength of Dress Measures 31in/78.7cm&lt;/p&gt;\r\n&lt;p&gt;\r\n\tAll Measurements Are For A Size Small.&lt;/p&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$59.00",
+            special: "$44.25",
+            priceInCents: 5900,
+            specialInCents: 4425,
+        },
+        {
+            id: 49130,
+            model: "L49130",
+            name: "Starstruck Strappy Dress in Nude Iridescence",
+            image: "https://media.lucyinthesky.com/data/Jan19_1/424x694_contain/0Y5A4237S.JPG",
+            description:
+                "&lt;p&gt;\r\n\tYou can make a grand entrance in this starstruck bodycon dress. Made in our show-stopping multi-colored iridescent sequin detailing embroidered on nude mesh. Being extra makes you extra fun and you&amp;#39;ll never miss a beat with this year-round flattering style that hugs you in all the right places. Features adjustable straps and a popular square neckline. Dress it up in your favorite heels and clutch and all eyes are on you!&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\tMade in Los Angeles&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- 100% Polyester&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Fully Lined&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Adjustable Straps&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Hand Wash Cold&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Center Front Sequin Placement Varies&lt;/p&gt;\r\n&lt;p&gt;\r\n\tLength of Dress Measures 31in/78.7cm&lt;/p&gt;\r\n&lt;p&gt;\r\n\tAll Measurements Are For A Size Small&lt;/p&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$130.00",
+            special: "$7.50",
+            priceInCents: 13000,
+            specialInCents: 750,
+        },
+        {
+            id: 50517,
+            model: "L50517",
+            name: "Josie Twinkling Open Back Dress in Black",
+            image: "https://media.lucyinthesky.com/data/Nov19_2/424x694_contain/781A8039.JPG",
+            description:
+                "&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\tClassy, fabulous and stunning, this bodycon dress features an asymmetric cross over hem, flattering ruched detailing and a sexy open back. Made in our twinkling black and silver fabric that pairs with everything. Dress up or down for a fun-filled weekend!&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\t- Made In Los Angeles&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\t- 94% Polyester 6% Spandex&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\t- Hand Wash Cold&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; line-height: normal; font-family: Avenir; color: rgb(16, 16, 16);&quot;&gt;\r\n\t&lt;span style=&quot;box-sizing: border-box; color: rgb(17, 17, 17); font-family: Avenir, sans-serif;&quot;&gt;- Ruched Detailing&lt;/span&gt;&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; line-height: normal; font-family: Avenir; color: rgb(16, 16, 16);&quot;&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; line-height: normal; font-family: Avenir; color: rgb(16, 16, 16);&quot;&gt;\r\n\t&lt;span style=&quot;box-sizing: border-box;&quot;&gt;Length of Dress Measures 31in/&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;78.7cm&lt;/span&gt;&lt;/p&gt;\r\n&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\t&lt;span style=&quot;box-sizing: border-box; color: rgb(16, 16, 16); font-family: Avenir;&quot;&gt;All Measurements Are For A Size Small.&lt;/span&gt;&lt;/p&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$64.00",
+            special: "$48.00",
+            priceInCents: 6400,
+            specialInCents: 4800,
+        },
+        {
+            id: 50313,
+            model: "L50313",
+            name: "Aubrey Ruffle Dress In Black",
+            image: "https://media.lucyinthesky.com/data/Sep19_2/424x694_contain/781A4215.JPG",
+            description:
+                "&lt;p&gt;\r\n\tFrom the brunch to the day-party, this style is very fun, flirty and classy. Its clean lines and simple, flattering silhouette make this the perfect dress to add to your wardrobe. Made in our light-weight black crepe fabric that hugs you in. Features a double ruffle hem and tie-back that is sure to make everyone stop and stare. Dress it up or down to fit the occasion!&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\tMade In Los Angeles&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Fully Lined&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Back Zipper&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Adjustable Back Tie&amp;nbsp;&lt;/p&gt;\r\n&lt;div&gt;\r\n\t- 100% Polyester&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Hand Wash Cold&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\tLength of Dress Measures 31in/78.74cm&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\tAll Measurements Are For A Size Small&lt;/div&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$59.00",
+            special: "$44.25",
+            priceInCents: 5900,
+            specialInCents: 4425,
+        },
+        {
+            id: 50129,
+            model: "L50129",
+            name: "Daytona Cutout Dress in Pearl Beige",
+            image: "https://media.lucyinthesky.com/data/Sep19_2/424x694_contain/781A6831.JPG",
+            description:
+                "&lt;p&gt;\r\n\t&amp;nbsp;Blessed with an hour-glass shape? You go girl! This fitted silhouette features a front waist cut-out with a front tie and flattering ruched detailing. This edgy style hugs you in all the right places and is the perfect go-to dress for a day of shopping or a night out in down! Dress it up or down and keep the compliments coming all day long.&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\tMade In Los Angeles&lt;/p&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- 100% Polyester&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t-Front Tie Detailing&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t-Double Faced Fabric&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t-Stretch Fabric&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Hand Wash Cold&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\tLength of Dress Measures 31in/78.7cm&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\tAll Measurements Are For A Size Small.&lt;/div&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$58.00",
+            special: "$43.50",
+            priceInCents: 5800,
+            specialInCents: 4350,
+        },
+        {
+            id: 50469,
+            model: "L50469",
+            name: "Love Affair Velvet Dress in Black",
+            image: "https://media.lucyinthesky.com/data/Nov19_1/424x694_contain/781A4577.JPG",
+            description:
+                "&lt;div&gt;\r\n\tStrut your stuff in this glamorous, glowing velvet dress! Made in our extra shiny black velvet luxe fabric. This show-stopping piece features a sexy cowl neck, side pleat detailing and lace-back for an adjustable fit. Pair with a red lip, crystal earrings and high heels and you&amp;#39;ll steal the show all night long!&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Made In Los Angeles&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Lace-back Closure&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Cowl Neck Detailing&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- 100% Polyester&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Hand Wash Cold&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\tLength of Dress Measures 31in/78.7cm&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\tAll Measurements Are For A Size Small&lt;/div&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$59.00",
+            special: "$44.25",
+            priceInCents: 5900,
+            specialInCents: 4425,
+        },
+        {
+            id: 51359,
+            model: "L51359",
+            name: "Embry Shoulder Ruffle Dress in Pink",
+            image: "https://media.lucyinthesky.com/data/Jun20_1/424x694_contain/781A6312.JPG",
+            description:
+                "&lt;p&gt;\r\n\tAll eyes on you in this one shoulder ruffle dress. Carefully crafted with a dainty ruffle hem, one shoulder neckline and three asymmetric shoulder straps. Edgy, fun and classy. Made in our heavy pink techno crepe that hugs you in. Dress it down with your favorite sneakers or dress it up with crystal accents and stilettos.&lt;/p&gt;\r\n&lt;p&gt;\r\n\t&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;\r\n\t- Made In Los Angeles&amp;nbsp;&lt;/p&gt;\r\n&lt;div&gt;\r\n\t- Adjustable Straps&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- 94% Polyester 6% Spandex&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t- Hand Wash Cold&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&amp;nbsp;&lt;/div&gt;\r\n&lt;div&gt;\r\n\t&lt;p style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; line-height: normal; font-family: Avenir; color: rgb(16, 16, 16);&quot;&gt;\r\n\t\t&lt;span style=&quot;box-sizing: border-box; font-kerning: none;&quot;&gt;Length of Dress Measures 31in/78.74 cm.&lt;/span&gt;&lt;/p&gt;\r\n\t&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(17, 17, 17); font-family: Avenir, sans-serif; font-size: 14px;&quot;&gt;\r\n\t\t&lt;span style=&quot;box-sizing: border-box; color: rgb(16, 16, 16); font-family: Avenir;&quot;&gt;All Measurements Are For A Size Small.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/div&gt;\r\n",
+            sizes: ["Small", "Medium", "Large"],
+            price: "$55.00",
+            special: "$41.25",
+            priceInCents: 5500,
+            specialInCents: 4125,
+        },
+    ],
+    count: 8,
+    total: 13,
+    pageCount: 2,
+    page: 1,
+};
